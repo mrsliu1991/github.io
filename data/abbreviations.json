@@ -1,0 +1,632 @@
+[
+  {
+    "abbr_en": "BCP",
+    "full_en": "Basel Core Principles",
+    "abbr_cn": "巴塞尔核心原则"
+  },
+  {
+    "abbr_en": "NC",
+    "full_en": "Not Compliant",
+    "abbr_cn": "不合规"
+  },
+  {
+    "abbr_en": "nan",
+    "full_en": "Not Applicable",
+    "abbr_cn": "不适用"
+  },
+  {
+    "abbr_en": "PC",
+    "full_en": "Partially Compliant",
+    "abbr_cn": "部分合规"
+  },
+  {
+    "abbr_en": "OP",
+    "full_en": "Operative Provisions",
+    "abbr_cn": "操作性条款"
+  },
+  {
+    "abbr_en": "LVTR",
+    "full_en": "Large-Value Transaction Report",
+    "abbr_cn": "大额现金交易报告"
+  },
+  {
+    "abbr_en": "WMD",
+    "full_en": "Weapons of Mass Destruction",
+    "abbr_cn": "大规模杀伤性武器"
+  },
+  {
+    "abbr_en": "BCS",
+    "full_en": "Bulk Cash Smuggling",
+    "abbr_cn": "大量现金走私"
+  },
+  {
+    "abbr_en": "LC",
+    "full_en": "Largely Compliant",
+    "abbr_cn": "大致合规"
+  },
+  {
+    "abbr_en": "ECDS",
+    "full_en": "Electronic Commercial Draft System",
+    "abbr_cn": "电子票据系统"
+  },
+  {
+    "abbr_en": "TFS",
+    "full_en": "Targeted Financial Sanctions",
+    "abbr_cn": "定向金融管制"
+  },
+  {
+    "abbr_en": "TFS",
+    "full_en": "Targeted Financial Sanctions",
+    "abbr_cn": "定向金融制裁"
+  },
+  {
+    "abbr_en": "TIM",
+    "full_en": "The  Turkistan  Islamic  Movement",
+    "abbr_cn": "东突厥斯坦伊斯兰运动"
+  },
+  {
+    "abbr_en": "AC",
+    "full_en": "Anti-Corruption",
+    "abbr_cn": "反腐败"
+  },
+  {
+    "abbr_en": "ACWG",
+    "full_en": "Anti-Corruption Working Group",
+    "abbr_cn": "反腐败工作组"
+  },
+  {
+    "abbr_en": "CFT",
+    "full_en": "Combating the Financing of Terrorism/ Countering Terrorist(Terrorism) Financing",
+    "abbr_cn": "反恐怖融资"
+  },
+  {
+    "abbr_en": "CPF",
+    "full_en": "Countering Proliferation Financing",
+    "abbr_cn": "反扩散融资"
+  },
+  {
+    "abbr_en": "AML",
+    "full_en": "Anti-Money Laundering",
+    "abbr_cn": "反洗钱"
+  },
+  {
+    "abbr_en": "CAMLMAC",
+    "full_en": "China Anti-Money Laundering Monitoring and Analysis Center",
+    "abbr_cn": "中国反洗钱监测分析中心"
+  },
+  {
+    "abbr_en": "POC",
+    "full_en": "Proceeds of Crime",
+    "abbr_cn": "犯罪所得"
+  },
+  {
+    "abbr_en": "NPO",
+    "full_en": "Non-Profit Organization",
+    "abbr_cn": "非营利组织"
+  },
+  {
+    "abbr_en": "RTMG",
+    "full_en": "Risks,Trends and Methods Group",
+    "abbr_cn": "风险、趋势与方法工作组（FATF下设工作组之一）"
+  },
+  {
+    "abbr_en": "P2P",
+    "full_en": "Person to Person/ Peer to Peer",
+    "abbr_cn": "个人对个人借贷（互联网金融）"
+  },
+  {
+    "abbr_en": "P2B",
+    "full_en": "Person to Business",
+    "abbr_cn": "个人对企业借贷（互联网金融）"
+  },
+  {
+    "abbr_en": "PIN",
+    "full_en": "Personal Identification Number",
+    "abbr_cn": "个人身份识别码"
+  },
+  {
+    "abbr_en": "CSP",
+    "full_en": "Company Service Providers",
+    "abbr_cn": "公司服务提供商/企业登记代理"
+  },
+  {
+    "abbr_en": "ICRG",
+    "full_en": "The International Cooperation Review Group",
+    "abbr_cn": "国际合作审查工作组"
+  },
+  {
+    "abbr_en": "POPR",
+    "full_en": "ICRG Post-Observation Period Report",
+    "abbr_cn": "国际合作审查观察期报告"
+  },
+  {
+    "abbr_en": "JG",
+    "full_en": "ICRG Joint Group",
+    "abbr_cn": "国际合作审查联合小组"
+  },
+  {
+    "abbr_en": "IFIs",
+    "full_en": "International Financial Institutions",
+    "abbr_cn": "国际金融机构"
+  },
+  {
+    "abbr_en": "IMOLIN",
+    "full_en": "International Money-Laundering Information Network",
+    "abbr_cn": "国际洗钱信息网络"
+  },
+  {
+    "abbr_en": "NECIPS",
+    "full_en": "National Enterprise Credit Information Publicity System",
+    "abbr_cn": "国家企业信用信息公示系统"
+  },
+  {
+    "abbr_en": "NRA",
+    "full_en": "National Money-laundering Risk Assessment",
+    "abbr_cn": "国家洗钱风险评估"
+  },
+  {
+    "abbr_en": "HOSSP",
+    "full_en": "Hawala and Other Similar Service Providers",
+    "abbr_cn": "哈瓦拉和其他类似服务提供商"
+  },
+  {
+    "abbr_en": "QDII",
+    "full_en": "Qualified Domestic Institutional Investors",
+    "abbr_cn": "合格境内机构投资者"
+  },
+  {
+    "abbr_en": "QFII/RQFII",
+    "full_en": "Qualified Foreign Institutional Investors and RMB Qualified Foreign Institutional Investors",
+    "abbr_cn": "合格境外机构投资者"
+  },
+  {
+    "abbr_en": "C",
+    "full_en": "Compliance",
+    "abbr_cn": "合规"
+  },
+  {
+    "abbr_en": "FUR",
+    "full_en": "Follow-up Report",
+    "abbr_cn": "后续评估报告"
+  },
+  {
+    "abbr_en": "ITFIN",
+    "full_en": "Internet Finance",
+    "abbr_cn": "互联网金融"
+  },
+  {
+    "abbr_en": "MER",
+    "full_en": "Mutual Evaluation Report",
+    "abbr_cn": "互评估报告"
+  },
+  {
+    "abbr_en": "MSB",
+    "full_en": "Monetary Service Business",
+    "abbr_cn": "货币服务商"
+  },
+  {
+    "abbr_en": "RBA",
+    "full_en": "Risk-Based Approach",
+    "abbr_cn": "基于风险"
+  },
+  {
+    "abbr_en": "TC",
+    "full_en": "Technical Compliance",
+    "abbr_cn": "技术合规"
+  },
+  {
+    "abbr_en": "TCRR",
+    "full_en": "Technical Compliance Re-Ratings",
+    "abbr_cn": "技术合规重新评级"
+  },
+  {
+    "abbr_en": "WGTA",
+    "full_en": "Working Group on Technical Assistance",
+    "abbr_cn": "技术援助工作组(EAG下设工作组之一）"
+  },
+  {
+    "abbr_en": "REG-TECH",
+    "full_en": "Regulatory Technology",
+    "abbr_cn": "监管科技"
+  },
+  {
+    "abbr_en": "R/Rec.",
+    "full_en": "Recommendation",
+    "abbr_cn": "建议"
+  },
+  {
+    "abbr_en": "FSAP",
+    "full_en": "Financial Sector Assessment Programme",
+    "abbr_cn": "金融部门评估规划"
+  },
+  {
+    "abbr_en": "FATF",
+    "full_en": "Financial Action Task Force",
+    "abbr_cn": "金融行动特别工作组"
+  },
+  {
+    "abbr_en": "FSRB",
+    "full_en": "FATF-Style Regional Body",
+    "abbr_cn": "金融行动特别工作组类型区域性反洗钱组织"
+  },
+  {
+    "abbr_en": "FI",
+    "full_en": "Financial Institutions",
+    "abbr_cn": "金融机构"
+  },
+  {
+    "abbr_en": "FIN-TECH",
+    "full_en": "Financial Technology",
+    "abbr_cn": "金融科技"
+  },
+  {
+    "abbr_en": "FIUs",
+    "full_en": "Financial Intelligence Units",
+    "abbr_cn": "金融情报中心"
+  },
+  {
+    "abbr_en": "FSF",
+    "full_en": "Financial Stability Forum",
+    "abbr_cn": "金融稳定论坛"
+  },
+  {
+    "abbr_en": "NFC",
+    "full_en": "Near Field Communication",
+    "abbr_cn": "近场通信"
+  },
+  {
+    "abbr_en": "STR",
+    "full_en": "Suspicious Transaction Report",
+    "abbr_cn": "可疑交易报告"
+  },
+  {
+    "abbr_en": "CDD",
+    "full_en": "Customer Due Diligence",
+    "abbr_cn": "客户尽职调查"
+  },
+  {
+    "abbr_en": "SIM",
+    "full_en": "Subscriber Identification Module",
+    "abbr_cn": "客户识别模块"
+  },
+  {
+    "abbr_en": "TF",
+    "full_en": "Terrorist Financing",
+    "abbr_cn": "恐怖融资"
+  },
+  {
+    "abbr_en": "FT",
+    "full_en": "Financing of Terrorism",
+    "abbr_cn": "恐怖融资"
+  },
+  {
+    "abbr_en": "PF",
+    "full_en": "Proliferation Financing/financing the proliferation of weapons of mass destruction",
+    "abbr_cn": "扩散融资/大规模杀伤性武器扩散融资"
+  },
+  {
+    "abbr_en": "KYC",
+    "full_en": "Know Your Customer",
+    "abbr_cn": "了解你的客户"
+  },
+  {
+    "abbr_en": "WGTYP",
+    "full_en": "Working Group on Typologies and Combating Financing of Terrorism and Crime",
+    "abbr_cn": "类型研究工作组(EAG下设工作组之一）"
+  },
+  {
+    "abbr_en": "OFCs",
+    "full_en": "Offshore Financial Centres",
+    "abbr_cn": "离岸金融中心"
+  },
+  {
+    "abbr_en": "UN",
+    "full_en": "United Nations",
+    "abbr_cn": "联合国"
+  },
+  {
+    "abbr_en": "UNSCR",
+    "full_en": "United Nations Security Council Resolution",
+    "abbr_cn": "联合国安理会决议"
+  },
+  {
+    "abbr_en": "Palermo Convention",
+    "full_en": "The United Nations Convention Against Transnational Organized Crime",
+    "abbr_cn": "《联合国打击跨国有组织犯罪公约》（也称《巴勒莫公约》）"
+  },
+  {
+    "abbr_en": "UNCAC",
+    "full_en": "United Nations Convention against Corruption",
+    "abbr_cn": "《联合国反腐败公约》（也称《梅里达公约》）"
+  },
+  {
+    "abbr_en": "Vienna Convention",
+    "full_en": "The United Nations Convention Against Illicit Traffic in Narcotic Drugs and Psychotropic Substances",
+    "abbr_cn": "《联合国禁止非法贩运麻醉药品和精神药物公约》（也称《维也纳公约》）"
+  },
+  {
+    "abbr_en": "JCPOA",
+    "full_en": "Joint Comprehensive Plan of Action",
+    "abbr_cn": "联合全面行动计划"
+  },
+  {
+    "abbr_en": "MOU",
+    "full_en": "Memorandum of Understanding",
+    "abbr_cn": "谅解备忘录"
+  },
+  {
+    "abbr_en": "IRM",
+    "full_en": "Implementation Review Mechanism",
+    "abbr_cn": "履约审议机制"
+  },
+  {
+    "abbr_en": "IGP",
+    "full_en": "Internal Governance Principles",
+    "abbr_cn": "内部治理原则"
+  },
+  {
+    "abbr_en": "WGEL",
+    "full_en": "Working Group on Evaluations and Legal Issues",
+    "abbr_cn": "评估与法律事务工作组(EAG下设工作组之一）"
+  },
+  {
+    "abbr_en": "ECG",
+    "full_en": "Evaluations and Compliance Group",
+    "abbr_cn": "评估与合规工作组"
+  },
+  {
+    "abbr_en": "FIP",
+    "full_en": "Financial Inclusion Products",
+    "abbr_cn": "普惠金融产品"
+  },
+  {
+    "abbr_en": "EDD",
+    "full_en": "Enhanced Due Diligence",
+    "abbr_cn": "强化尽职调查"
+  },
+  {
+    "abbr_en": "GPFI",
+    "full_en": "The Global Partnership for Financial Inclusion",
+    "abbr_cn": "全球普惠金融合作伙伴"
+  },
+  {
+    "abbr_en": "CPI",
+    "full_en": "Corruption Perceptions Index",
+    "abbr_cn": "全球清廉指数"
+  },
+  {
+    "abbr_en": "GNCG",
+    "full_en": "Global Networking Coordinating Group",
+    "abbr_cn": "全球网络协调工作组"
+  },
+  {
+    "abbr_en": "THB",
+    "full_en": "Trafficking Human Business",
+    "abbr_cn": "人口贩卖"
+  },
+  {
+    "abbr_en": "ID&V",
+    "full_en": "Identification &Verification",
+    "abbr_cn": "身份识别与验证"
+  },
+  {
+    "abbr_en": "IMPS",
+    "full_en": "Immediate Payment System",
+    "abbr_cn": "实时支付服务系统"
+  },
+  {
+    "abbr_en": "IN",
+    "full_en": "Interpretive Notes",
+    "abbr_cn": "释义"
+  },
+  {
+    "abbr_en": "CFO",
+    "full_en": "Chief Finance Officer",
+    "abbr_cn": "首席财务官"
+  },
+  {
+    "abbr_en": "CEO",
+    "full_en": "Chief Executive Officer",
+    "abbr_cn": "首席执行官"
+  },
+  {
+    "abbr_en": "BO",
+    "full_en": "Beneficial Ownership",
+    "abbr_cn": "受益所有权"
+  },
+  {
+    "abbr_en": "AEO",
+    "full_en": "Authorised Economic Operator",
+    "abbr_cn": "授权经济运营商"
+  },
+  {
+    "abbr_en": "MLA",
+    "full_en": "Mutual Legal Assistance",
+    "abbr_cn": "双边司法协助"
+  },
+  {
+    "abbr_en": "SR",
+    "full_en": "Special Recommendations",
+    "abbr_cn": "特别建议"
+  },
+  {
+    "abbr_en": "DNFBP",
+    "full_en": "Designated Non-Financial Business or Profession",
+    "abbr_cn": "特定非金融行业和职业"
+  },
+  {
+    "abbr_en": "IP",
+    "full_en": "Internet Protocol",
+    "abbr_cn": "网络协议"
+  },
+  {
+    "abbr_en": "BNI",
+    "full_en": "Bearer Negotiable Instruments",
+    "abbr_cn": "无记名可转让金融工具"
+  },
+  {
+    "abbr_en": "ML",
+    "full_en": "Money Laundering",
+    "abbr_cn": "洗钱"
+  },
+  {
+    "abbr_en": "CTR",
+    "full_en": "Cash Transaction Report",
+    "abbr_cn": "现金交易报告"
+  },
+  {
+    "abbr_en": "O2O",
+    "full_en": "Online to Offline",
+    "abbr_cn": "线上到线下"
+  },
+  {
+    "abbr_en": "DAR",
+    "full_en": "Detailed Assessment Report",
+    "abbr_cn": "详细评估报告"
+  },
+  {
+    "abbr_en": "POS",
+    "full_en": "Point of  Sale",
+    "abbr_cn": "销售终端"
+  },
+  {
+    "abbr_en": "NPPS",
+    "full_en": "New Payment Products and Services",
+    "abbr_cn": "新支付产品和服务"
+  },
+  {
+    "abbr_en": "NPM",
+    "full_en": "New Payment Method",
+    "abbr_cn": "新支付方式"
+  },
+  {
+    "abbr_en": "TCSP",
+    "full_en": "Trust and Company Service Providers",
+    "abbr_cn": "信托和公司服务提供商"
+  },
+  {
+    "abbr_en": "VASP",
+    "full_en": "Virtual Asset Service Provider",
+    "abbr_cn": "虚拟资产服务提供商"
+  },
+  {
+    "abbr_en": "GAPP",
+    "full_en": "General Anti-Proliferation Provisions",
+    "abbr_cn": "一般性反扩散条款"
+  },
+  {
+    "abbr_en": "IRGC",
+    "full_en": "Islamic Revolutionary Guard Corps",
+    "abbr_cn": "伊朗伊斯兰革命卫队"
+  },
+  {
+    "abbr_en": "IRISL",
+    "full_en": "Islamic Republic of Iran Shipping Lines",
+    "abbr_cn": "伊朗伊斯兰共和国航运公司"
+  },
+  {
+    "abbr_en": "ISIL",
+    "full_en": "Islamic State of Iraq and the Levant",
+    "abbr_cn": "伊斯兰国,全称“伊拉克和黎凡特伊斯兰国”,原称“伊拉克和大叙利亚伊斯兰国（ISIL）”"
+  },
+  {
+    "abbr_en": "MNO",
+    "full_en": "Mobile Network Operators",
+    "abbr_cn": "移动网络运营商"
+  },
+  {
+    "abbr_en": "SOM",
+    "full_en": "Smuggling of Migrants",
+    "abbr_cn": "移民走私"
+  },
+  {
+    "abbr_en": "RUR",
+    "full_en": "Recommendations Under Review",
+    "abbr_cn": "应评建议"
+  },
+  {
+    "abbr_en": "PPIs",
+    "full_en": "Prepaid Payment Instruments",
+    "abbr_cn": "预付费支付工具"
+  },
+  {
+    "abbr_en": "CVIT",
+    "full_en": "Cash/Valuables in Transit",
+    "abbr_cn": "在途现金 / 有价物品"
+  },
+  {
+    "abbr_en": "VAT",
+    "full_en": "Value-Added Tax",
+    "abbr_cn": "增值税"
+  },
+  {
+    "abbr_en": "KRA",
+    "full_en": "Key Recommended Action",
+    "abbr_cn": "整改建议"
+  },
+  {
+    "abbr_en": "PDG",
+    "full_en": "Policy Development Group",
+    "abbr_cn": "政策研究工作组（FATF下设工作组之一）"
+  },
+  {
+    "abbr_en": "PEPs",
+    "full_en": "Politically Exposed  Persons",
+    "abbr_cn": "政治公众人物"
+  },
+  {
+    "abbr_en": "CPMI",
+    "full_en": "Committee on Payments and Market Infrastructures",
+    "abbr_cn": "支付和市场基础设施委员会"
+  },
+  {
+    "abbr_en": "LEA",
+    "full_en": "Law Enforcement Agencies",
+    "abbr_cn": "执法部门"
+  },
+  {
+    "abbr_en": "IO",
+    "full_en": "Immediate Outcomes",
+    "abbr_cn": "直接目标"
+  },
+  {
+    "abbr_en": "Terrorist Financing Convention",
+    "full_en": "The International Convention for the Suppression of the Financing of Terrorism 1999",
+    "abbr_cn": "《制止向恐怖主义提供资助的国际公约》（1999年）"
+  },
+  {
+    "abbr_en": "Q&C",
+    "full_en": "Quality and Consistency",
+    "abbr_cn": "质量和一致性"
+  },
+  {
+    "abbr_en": "MTSS",
+    "full_en": "Money Transfer Service System",
+    "abbr_cn": "转账服务体系"
+  },
+  {
+    "abbr_en": "ARIN",
+    "full_en": "Asset Recovery Inter-agency Network",
+    "abbr_cn": "资产追缴机构间网络"
+  },
+  {
+    "abbr_en": "MVTS",
+    "full_en": "Money or Value Transfer Services",
+    "abbr_cn": "资金或价值转移服务"
+  },
+  {
+    "abbr_en": "SRB",
+    "full_en": "Self-Regulating Bodies",
+    "abbr_cn": "自律组织"
+  },
+  {
+    "abbr_en": "SROs",
+    "full_en": "Self-Regulatory Organizations",
+    "abbr_cn": "自律组织"
+  },
+  {
+    "abbr_en": "VTC",
+    "full_en": "Voluntary Tax Compliance",
+    "abbr_cn": "自愿税务计划"
+  }
+]

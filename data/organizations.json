@@ -1,0 +1,407 @@
+[
+  {
+    "org_abbr_en": "Egmont Group",
+    "org_full_en": "Egmont Group of Financial Intelligence Units",
+    "org_cn": "埃格蒙特集团"
+  },
+  {
+    "org_abbr_en": "OLSC",
+    "org_full_en": "Office of the Legal Services Commissioners",
+    "org_cn": "澳大利亚法律事务委员会办公室"
+  },
+  {
+    "org_abbr_en": "BCBS",
+    "org_full_en": "Basel Committee on Banking Supervision",
+    "org_cn": "巴塞尔银行监管委员会"
+  },
+  {
+    "org_abbr_en": "BAFIN",
+    "org_full_en": "Federal Financial Supervisory Authority",
+    "org_cn": "德国联邦金融监管局"
+  },
+  {
+    "org_abbr_en": "ESAAMLG",
+    "org_full_en": "Eastern and Southern Africa Anti-Money Laundering Group",
+    "org_cn": "东南非洲金融行动特别工作组"
+  },
+  {
+    "org_abbr_en": "CLAB",
+    "org_full_en": "Anti-Money Laundering Liaison Committee of the Franc Zone",
+    "org_cn": "法郎区反洗钱联络委员会"
+  },
+  {
+    "org_abbr_en": "AFDB",
+    "org_full_en": "African Development Bank",
+    "org_cn": "非洲开发银行"
+  },
+  {
+    "org_abbr_en": "FSRBs",
+    "org_full_en": "FATF-Style Regional Bodies",
+    "org_cn": "FATF类型区域性反洗钱组织"
+  },
+  {
+    "org_abbr_en": "TREIN",
+    "org_full_en": "The FATF Training and Research Institute",
+    "org_cn": "FATF培训研究院"
+  },
+  {
+    "org_abbr_en": "ACAMS",
+    "org_full_en": "Association of Certified Anti-Money Laundering Specialists",
+    "org_cn": "公认反洗钱师协会"
+  },
+  {
+    "org_abbr_en": "IAIS",
+    "org_full_en": "International Association of Insurance Supervisors",
+    "org_cn": "国际保险监督官协会"
+  },
+  {
+    "org_abbr_en": "IBRD",
+    "org_full_en": "International Bank for Reconstruction and Development",
+    "org_cn": "国际复兴开发银行"
+  },
+  {
+    "org_abbr_en": "IMF",
+    "org_full_en": "International Monetary Fund",
+    "org_cn": "国际货币基金组织"
+  },
+  {
+    "org_abbr_en": "GIFCS",
+    "org_full_en": "Group of International Finance Centre Supervisors",
+    "org_cn": "国际金融中心监管集团"
+  },
+  {
+    "org_abbr_en": "ILO",
+    "org_full_en": "International Labour Organization",
+    "org_cn": "国际劳工组织"
+  },
+  {
+    "org_abbr_en": "IBA",
+    "org_full_en": "International Bar Association",
+    "org_cn": "国际律师协会"
+  },
+  {
+    "org_abbr_en": "BIS",
+    "org_full_en": "Bank for International Settlements",
+    "org_cn": "国际清算银行"
+  },
+  {
+    "org_abbr_en": "Interpol",
+    "org_full_en": "International Criminal Police Organization",
+    "org_cn": "国际刑警组织"
+  },
+  {
+    "org_abbr_en": "IOM",
+    "org_full_en": "International Organization for Migration",
+    "org_cn": "国际移民组织"
+  },
+  {
+    "org_abbr_en": "IOSCO",
+    "org_full_en": "International Organization of Securities Commissions",
+    "org_cn": "国际证监会组织"
+  },
+  {
+    "org_abbr_en": "GCC",
+    "org_full_en": "Gulf Cooperation Council",
+    "org_cn": "海湾合作委员会"
+  },
+  {
+    "org_abbr_en": "SWIFT",
+    "org_full_en": "Society for Worldwide Interbank Financial Telecommunication",
+    "org_cn": "环球同业银行金融电信协会"
+  },
+  {
+    "org_abbr_en": "CFATF",
+    "org_full_en": "Caribbean Financial Action Task Force",
+    "org_cn": "加勒比地区金融行动特别工作组"
+  },
+  {
+    "org_abbr_en": "FATF",
+    "org_full_en": "Financial Action Task Force",
+    "org_cn": "金融行动特别工作组"
+  },
+  {
+    "org_abbr_en": "FSB",
+    "org_full_en": "Financial Stability Board",
+    "org_cn": "金融稳定理事会"
+  },
+  {
+    "org_abbr_en": "OECD",
+    "org_full_en": "Organization for Economic Co-operation and Development",
+    "org_cn": "经济合作与发展组织"
+  },
+  {
+    "org_abbr_en": "CARIN",
+    "org_full_en": "Camden Asset Recovery Inter-agency Network",
+    "org_cn": "卡姆登资产追缴机构间网络"
+  },
+  {
+    "org_abbr_en": "GAFILAT",
+    "org_full_en": "Latin American Financial Action Task Force Against Money Laundering",
+    "org_cn": "拉美金融行动特别工作组"
+  },
+  {
+    "org_abbr_en": "OGBS",
+    "org_full_en": "Offshore Group of Banking Supervisors",
+    "org_cn": "离岸银行业监管集团"
+  },
+  {
+    "org_abbr_en": "FOMC",
+    "org_full_en": "Federal Open Market Committee",
+    "org_cn": "联邦公开市场委员会"
+  },
+  {
+    "org_abbr_en": "UN",
+    "org_full_en": "United Nations",
+    "org_cn": "联合国"
+  },
+  {
+    "org_abbr_en": "UNSC",
+    "org_full_en": "United Nations Security Council",
+    "org_cn": "联合国安全理事会"
+  },
+  {
+    "org_abbr_en": "UNODC",
+    "org_full_en": "United Nations Office on Drugs and Crime",
+    "org_cn": "联合国毒品和犯罪问题办公室"
+  },
+  {
+    "org_abbr_en": "UNCTC",
+    "org_full_en": "United Nations Counter-Terrorism Committee",
+    "org_cn": "联合国反恐怖主义委员会"
+  },
+  {
+    "org_abbr_en": "TTU",
+    "org_full_en": "Trade Transparency Units",
+    "org_cn": "贸易透明中心"
+  },
+  {
+    "org_abbr_en": "OFAC",
+    "org_full_en": "Office of Foreign Assets Control",
+    "org_cn": "美国财政部海外资产控制办公室"
+  },
+  {
+    "org_abbr_en": "IRS",
+    "org_full_en": "Internal Revenue Service",
+    "org_cn": "美国国税局"
+  },
+  {
+    "org_abbr_en": "OCC",
+    "org_full_en": "Office of Comptroller of the Currency",
+    "org_cn": "美国货币监理署"
+  },
+  {
+    "org_abbr_en": "FinCEN",
+    "org_full_en": "Financial Crimes Enforcement Network",
+    "org_cn": "美国金融犯罪执法局"
+  },
+  {
+    "org_abbr_en": "FED",
+    "org_full_en": "Federal Reserve",
+    "org_cn": "美国联邦储备管理局"
+  },
+  {
+    "org_abbr_en": "SEC",
+    "org_full_en": "Securities and Exchange Commission",
+    "org_cn": "美国证券交易监督委员会"
+  },
+  {
+    "org_abbr_en": "CICTE",
+    "org_full_en": "Inter-American Committee Against Terrorism",
+    "org_cn": "美洲反恐怖主义委员会"
+  },
+  {
+    "org_abbr_en": "CICAD",
+    "org_full_en": "Inter-American Drug Abuse Control Commission",
+    "org_cn": "美洲防止毒品滥用管制委员会"
+  },
+  {
+    "org_abbr_en": "OAS",
+    "org_full_en": "Organization of American States",
+    "org_cn": "美洲国家组织"
+  },
+  {
+    "org_abbr_en": "IADB",
+    "org_full_en": "Inter-American Development Bank",
+    "org_cn": "美洲开发银行"
+  },
+  {
+    "org_abbr_en": "GAFISUD",
+    "org_full_en": "Financial Action Task Force on Money Laundering in South America",
+    "org_cn": "南美金融行动特别工作组"
+  },
+  {
+    "org_abbr_en": "EU",
+    "org_full_en": "European Union",
+    "org_cn": "欧盟"
+  },
+  {
+    "org_abbr_en": "EC",
+    "org_full_en": "European Council",
+    "org_cn": "欧盟理事会"
+  },
+  {
+    "org_abbr_en": "EC",
+    "org_full_en": "European Commission",
+    "org_cn": "欧盟委员会"
+  },
+  {
+    "org_abbr_en": "MONEYVAL",
+    "org_full_en": "Council of Europe Committee of Experts on the Evaluation of Anti-Money Laundering Measures and the Financing of Terrorism",
+    "org_cn": "欧盟委员会反洗钱及反恐怖融资评估专家委员会"
+  },
+  {
+    "org_abbr_en": "EAG",
+    "org_full_en": "Eurasian Group on Combating  Money Laundering and Financing of Terrorism",
+    "org_cn": "欧亚反洗钱与反恐怖融资组织"
+  },
+  {
+    "org_abbr_en": "OSCE",
+    "org_full_en": "Organization for Security and Co-operation in Europe",
+    "org_cn": "欧洲安全与合作组织"
+  },
+  {
+    "org_abbr_en": "EBRD",
+    "org_full_en": "European Bank for Reconstruction and Development",
+    "org_cn": "欧洲复兴开发银行"
+  },
+  {
+    "org_abbr_en": "GRECO",
+    "org_full_en": "Council of Europe's Against Corruption",
+    "org_cn": "欧洲国家反腐败集团理事会"
+  },
+  {
+    "org_abbr_en": "Eurojust",
+    "org_full_en": "European Union’s Judicial Cooperation Unit",
+    "org_cn": "欧洲检察官组织"
+  },
+  {
+    "org_abbr_en": "CCEB",
+    "org_full_en": "Council of the Bars and Law Societies of the European Union",
+    "org_cn": "欧洲律师事务所和法律协会理事会"
+  },
+  {
+    "org_abbr_en": "Europol",
+    "org_full_en": "European Criminal Police Organization",
+    "org_cn": "欧洲刑警组织"
+  },
+  {
+    "org_abbr_en": "ECB",
+    "org_full_en": "European Central Bank",
+    "org_cn": "欧洲央行"
+  },
+  {
+    "org_abbr_en": "EP",
+    "org_full_en": "European Parliament",
+    "org_cn": "欧洲议会"
+  },
+  {
+    "org_abbr_en": "EBA",
+    "org_full_en": "European Banking Authority",
+    "org_cn": "欧洲银行管理局"
+  },
+  {
+    "org_abbr_en": "FINMA",
+    "org_full_en": "Swiss Financial Market Supervisory Authority",
+    "org_cn": "瑞士金融市场监管局"
+  },
+  {
+    "org_abbr_en": "CFTC",
+    "org_full_en": "Commodity Futures Trading Commission",
+    "org_cn": "商品期货交易委员会"
+  },
+  {
+    "org_abbr_en": "WCO",
+    "org_full_en": "World Customs Organization",
+    "org_cn": "世界海关组织"
+  },
+  {
+    "org_abbr_en": "WTO",
+    "org_full_en": "World Trade Organization",
+    "org_cn": "世界贸易组织"
+  },
+  {
+    "org_abbr_en": "WB",
+    "org_full_en": "World Bank",
+    "org_cn": "世界银行"
+  },
+  {
+    "org_abbr_en": "TI",
+    "org_full_en": "Transparency International",
+    "org_cn": "透明国际"
+  },
+  {
+    "org_abbr_en": "UPU",
+    "org_full_en": "Universal Postal Union",
+    "org_cn": "万国邮政联盟"
+  },
+  {
+    "org_abbr_en": "Wolfsberg Group",
+    "org_full_en": "Wolfsberg Group",
+    "org_cn": "沃尔夫斯堡集团"
+  },
+  {
+    "org_abbr_en": "GIABA",
+    "org_full_en": "Inter-Governmental Group Againest Money Laundering in West Africa",
+    "org_cn": "西非政府间金融行动特别工作组"
+  },
+  {
+    "org_abbr_en": "MAS",
+    "org_full_en": "Monetary Authority of Singapore",
+    "org_cn": "新加坡金融管理局"
+  },
+  {
+    "org_abbr_en": "APG",
+    "org_full_en": "Asia & Pacific Group on Money Laundering",
+    "org_cn": "亚太反洗钱组织"
+  },
+  {
+    "org_abbr_en": "APEC",
+    "org_full_en": "Asia-Pacific Economic Cooperation",
+    "org_cn": "亚太经济合作组织"
+  },
+  {
+    "org_abbr_en": "ADB",
+    "org_full_en": "Asian Development Bank",
+    "org_cn": "亚洲开发银行"
+  },
+  {
+    "org_abbr_en": "RBI",
+    "org_full_en": "Reserve Bank of India",
+    "org_cn": "印度储备银行"
+  },
+  {
+    "org_abbr_en": "FSA",
+    "org_full_en": "Financial Services Authority",
+    "org_cn": "英国金融服务局"
+  },
+  {
+    "org_abbr_en": "FCA",
+    "org_full_en": "Financial Conduct Authority",
+    "org_cn": "英国金融行为监管局"
+  },
+  {
+    "org_abbr_en": "CS",
+    "org_full_en": "Commonwealth Secretariat",
+    "org_cn": "英联邦秘书处"
+  },
+  {
+    "org_abbr_en": "MENAFATF",
+    "org_full_en": "Middle East and North Africa Financial Action Task Force",
+    "org_cn": "中东和北非金融行动特别工作组"
+  },
+  {
+    "org_abbr_en": "GABAC",
+    "org_full_en": "Groupe d'Action Contre le Blanchiment d'Argent en Afrique Centrale",
+    "org_cn": "中非金融行动特别工作组"
+  },
+  {
+    "org_abbr_en": "CAMLMAC",
+    "org_full_en": "China Anti-Money Laundering Monitoring&Analysis\n Center",
+    "org_cn": "中国反洗钱监测分析中心"
+  },
+  {
+    "org_abbr_en": "ARIN",
+    "org_full_en": "Asset Recovery Inter-agency Network",
+    "org_cn": "资产追缴机构间网络"
+  }
+]

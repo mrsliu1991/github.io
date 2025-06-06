@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="UTF-8">
+    <title>反洗钱词典</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="logo.png">
+    <script src="tiny-pinyin.min.js"></script>
+    <style>
+      .welcome-container {
+        max-width: 600px;
+        margin: 40px auto 0 auto;
+        padding: 32px 24px;
+        background: #f8f9fa;
+        border-radius: 12px;
+        box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+        text-align: center;
+      }
+      .welcome-title {
+        font-size: 2.2em;
+        color: #2c3e50;
+        margin-bottom: 18px;
+        letter-spacing: 2px;
+      }
+      .welcome-desc {
+        font-size: 1.15em;
+        color: #444;
+        line-height: 2;
+        margin-bottom: 18px;
+        text-align: left;
+      }
+      .welcome-quote {
+        display: block;
+        font-style: italic;
+        color: #007b8a;
+        margin: 12px 0;
+        font-weight: bold;
+        text-align: center;
+      }
+      .welcome-support {
+        color: #888;
+        font-size: 1em;
+        margin-top: 10px;
+      }
+    </style>
+</head>
+
+<body>
+    <div class="header">
+        <img src="logo.png" alt="LOGO" class="logo">
+        <span class="title">反洗钱词典</span>
+        <div class="nav-btns">
+            <button id="btn-en-cn" class="nav-btn active">英汉对照</button>
+            <button id="btn-cn-en" class="nav-btn">汉英对照</button>
+            <button id="btn-search" class="nav-btn">搜索</button>
+        </div>
+    </div>
+    <div class="main-container">
+        <div class="sidebar">
+            <ul id="category-list">
+                <li class="category active" data-category="welcome">前言</li>
+                <li class="category" data-category="abbreviation">反洗钱缩略语</li>
+                <li class="category" data-category="vocabulary">反洗钱词汇</li>
+                <li class="category" data-category="organization">机构全称与缩写</li>
+            </ul>
+            <ul id="letter-nav" class="letter-nav"></ul>
+        </div>
+        <div class="resizer" id="sidebar-resizer"></div>
+        <div class="content-area">
+            <div id="welcome-page" class="content-block">
+                <div class="welcome-container">
+                  <h1 class="welcome-title">欢迎使用反洗钱电子词典</h1>
+                  <p class="welcome-desc">
+                    随着反洗钱领域的不断拓宽，反洗钱术语也不断推陈出新。为方便各位同事在从事反洗钱工作中，尽可能准确地翻译、表达反洗钱术语，总行反洗钱局全面梳理、汇总了反洗钱高频词汇和常见缩略语等，并制作开发了反洗钱电子词典。<br>
+                    <span class="welcome-quote">“工欲善其事，必先利其器”。</span><br>
+                    望此词典可起到抛砖引玉的作用，为反洗钱国际合作、外文文献编译等反洗钱工作贡献微薄之力。
+                  </p>
+                  <p class="welcome-support">技术支持：<span style="font-weight:bold;">0791-86646451</span></p>
+                </div>
+            </div>
+            <div id="table-area" class="content-block" style="display:none;">
+                <div id="table-title"></div>
+                <div id="table-content"></div>
+            </div>
+            <div id="search-area" class="content-block">
+                <div class="search-bar">
+                    <input type="text" id="searchInput" placeholder="请输入英文、中文或拼音进行搜索...">
+                    <button id="searchBtn">搜索</button>
+                    <label><input type="checkbox" id="autoSearch" checked> 自动搜索</label>
+                </div>
+                <div id="search-result-count"></div>
+                <div id="search-result-table"></div>
+            </div>
+        </div>
+        <div class="resizer" id="sidepanel-resizer"></div>
+        <div class="sidepanel">
+            <div class="panel-block">
+                <h3>书签</h3>
+                <ul id="bookmarks-list"></ul>
+            </div>
+            <div class="resizer" id="bookmarks-resizer"></div>
+            <div class="panel-block">
+                <h3>历史记录</h3>
+                <button id="clearHistoryBtn" class="clear-btn">清空历史</button>
+                <ul id="history-list"></ul>
+            </div>
+        </div>
+    </div>
+    <footer>
+        <span>© 反洗钱词典 </span>
+    </footer>
+</body>
+<script src="app.js" defer></script>
+</html>
